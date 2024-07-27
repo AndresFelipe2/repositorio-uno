@@ -1,4 +1,4 @@
-# desarrollo-web
+# repositorio de git
 repositorio creado en git 
 
 ## descripcion

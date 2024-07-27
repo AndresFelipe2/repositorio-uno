@@ -1,5 +1,5 @@
 # desarrollo-web
 repositorio creado en git 
 
-##descripcion
+## descripcion
 este es un repo creado exclusivamente
